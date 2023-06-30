@@ -1,0 +1,9 @@
+C:/my__folder/study/OOP/lab_7/build-lab_7-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/lab_7.dir
+C:/my__folder/study/OOP/lab_7/build-lab_7-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/my__folder/study/OOP/lab_7/build-lab_7-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/my__folder/study/OOP/lab_7/build-lab_7-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/my__folder/study/OOP/lab_7/build-lab_7-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/my__folder/study/OOP/lab_7/build-lab_7-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/my__folder/study/OOP/lab_7/build-lab_7-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/my__folder/study/OOP/lab_7/build-lab_7-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/lab_7_autogen_timestamp_deps.dir
+C:/my__folder/study/OOP/lab_7/build-lab_7-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/lab_7_autogen.dir

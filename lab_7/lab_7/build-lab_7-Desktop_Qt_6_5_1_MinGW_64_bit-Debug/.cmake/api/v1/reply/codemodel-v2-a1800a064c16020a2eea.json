@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-862e33818582ad21fb1a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab_7",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lab_7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab_7-Debug-c8e96c5a4957521645f5.json",
+					"name" : "lab_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab_7_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab_7_autogen-Debug-b8e54ed0d707a29d432c.json",
+					"name" : "lab_7_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab_7_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab_7_autogen_timestamp_deps-Debug-435da3a02d63c4352c5d.json",
+					"name" : "lab_7_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/my__folder/study/OOP/lab_7/build-lab_7-Desktop_Qt_6_5_1_MinGW_64_bit-Debug",
+		"source" : "C:/my__folder/study/OOP/lab_7/lab_7"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

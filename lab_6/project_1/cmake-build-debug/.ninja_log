@@ -1,0 +1,15 @@
+# ninja log v5
+1	456	7095353628004210	CMakeFiles/project_1.dir/main.cpp.obj	466026aad7592d23
+5	464	7095353628099593	CMakeFiles/project_1.dir/function.cpp.obj	f1abce41aaf07cea
+2	303	7095354464553254	CMakeFiles/project_1.dir/main.cpp.obj	466026aad7592d23
+2	307	7095354950993643	CMakeFiles/project_1.dir/main.cpp.obj	466026aad7592d23
+6	313	7095354951054361	CMakeFiles/project_1.dir/function.cpp.obj	f1abce41aaf07cea
+3	316	7095356414185430	CMakeFiles/project_1.dir/main.cpp.obj	466026aad7592d23
+8	337	7095356414393495	CMakeFiles/project_1.dir/function.cpp.obj	f1abce41aaf07cea
+2	299	7095357864648250	CMakeFiles/project_1.dir/main.cpp.obj	466026aad7592d23
+3	293	7095362016908113	CMakeFiles/project_1.dir/function.cpp.obj	f1abce41aaf07cea
+2	275	7095363930063719	CMakeFiles/project_1.dir/main.cpp.obj	466026aad7592d23
+6	313	7095363930436221	CMakeFiles/project_1.dir/function.cpp.obj	f1abce41aaf07cea
+313	388	7095363931158420	project_1.exe	8c054d268cb62c33
+2	344	7097907404132127	CMakeFiles/project_1.dir/main.cpp.obj	466026aad7592d23
+345	448	7097907405134266	project_1.exe	8c054d268cb62c33
